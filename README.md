@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I'm Ademuyiwa Oluwasemilore (Shemzy) — a Statistics graduate from the Federal University of Technology, Akure, now building a career in cybersecurity through hands-on, self directed learning with a focus on SOC analyst work.<br><br>I learn by building. My home SOC lab runs on VirtualBox with a full Windows/Kali/Parrot OS/Windows Server/Ubuntu setup, deploying a Wazuh SIEM stack to monitor agent targets from separated attack platforms including working through real world networking.<br><br>Some things I've worked on:<br><br>🛠️ A Python network packet sniffer built with Scapy, with CSV logging<br>🎯 A 13-slide phishing awareness training deck for end-user security education<br>🐧 Linux user/group management automation via custom bash scripts<br>🕵️ OSINT/recon practice using tools like theHarvester, whatweb, and wafw00f<br><br>Background & Credentials:<br><br>Cisco Networking Academy pathway certifications<br>Forward Edge Cybersecurity Bootcamp graduate<br>Previously interned in underwriting at AIICO Insurance: brings a risk-analysis mindset from the insurance world into security work<br><br>I'm especially drawn to the SOC analyst path, detection, triage, and understanding attacker behavior through frameworks like MITRE ATT&CK. Currently applying to internships and entry level roles while continuing to build out my lab, and work on various project and documenting what I learn.<br><br>📫 Open to SOC analyst / cybersecurity internship opportunities or jobs, feel free to connect.
 
-<!--
-**Bigshemzy/Bigshemzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shemzy#6233) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/general_shemzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ademuyiwa Oluwasemilore) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Big_shemzy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@general_shemzy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/general_shemzy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/general_shemzy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:semiloreademuyiwa@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bigshemzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bigshemzy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bigshemzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=bigshemzy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
